@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "387087960529",
+    "firebase_url": "https://felsefe-sozlugum.firebaseio.com",
+    "project_id": "felsefe-sozlugum",
+    "storage_bucket": "felsefe-sozlugum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387087960529:android:494efe21a48937682438f0",
+        "android_client_info": {
+          "package_name": "com.nhbp.felsefesozlugum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387087960529-jn7mjrh2cacpsrnfoqgv82abqji2se94.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nhbp.felsefesozlugum",
+            "certificate_hash": "5077f7902ecb987f6865dc76f6947d29701d56d2"
+          }
+        },
+        {
+          "client_id": "387087960529-vf4a0aqcqos335thadni56lcb52raaad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTfiKmUvgFCIGJK4QXZ0qkYSEPjbHp_pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387087960529-vf4a0aqcqos335thadni56lcb52raaad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
